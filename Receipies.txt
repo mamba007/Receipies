@@ -3,5 +3,7 @@ Hello world !!!!!
 Rice
 Curry
 Chicken Fry
+Beans
+Pizza
 
 Thanks You :)
